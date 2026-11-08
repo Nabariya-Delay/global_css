@@ -1,0 +1,79 @@
+/* Flexbox */
+.flex {
+  display: flex;
+}
+.center {
+  justify-content: center;
+  align-items: center;
+}
+.jc {
+  justify-content: center;
+}
+.ai {
+  align-items: center;
+}
+.between {
+  justify-content: space-between;
+}
+
+/* Grid */
+.grid {
+  display: grid;
+}
+.place {
+  place-items: center;
+}
+.p-center {
+  display: grid;
+  place-items: center;
+}
+
+/* Gap */
+.g1 {
+  gap: 4px;
+}
+.g2 {
+  gap: 8px;
+}
+.g3 {
+  gap: 16px;
+}
+.g4 {
+  gap: 24px;
+}
+
+/* Padding */
+.p1 {
+  padding: 4px;
+}
+.p2 {
+  padding: 8px;
+}
+.p3 {
+  padding: 16px;
+}
+.p4 {
+  padding: 24px;
+}
+
+/* Margin */
+.m1 {
+  margin: 4px;
+}
+.m2 {
+  margin: 8px;
+}
+.m3 {
+  margin: 16px;
+}
+.m4 {
+  margin: 24px;
+}
+
+/* サイズ */
+.full {
+  width: 100%;
+}
+.vh {
+  min-height: 100dvh;
+}
